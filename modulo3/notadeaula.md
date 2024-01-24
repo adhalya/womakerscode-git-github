@@ -23,3 +23,10 @@ Este comando vai criar e já trocar para a nova branch
 1 - Vá na sessão de listagem de branchs.
 
 2 - Clique no ícone da lixeira para realizar a exclusão dessa branch.
+
+
+### Link sobre o assunto:
+
+**[Tutorial Git] git branch: O que são branches (ramos) no Git?**
+
+https://dev.to/womakerscode/tutorial-git-o-que-sao-branches-ramos-no-git-57pn
